@@ -1,3 +1,4 @@
+<div style="direction: rtl">
 <p align="center">
   <a href="http://github.com/kamranahmedse/developer-roadmap">
     <img src="https://i.imgur.com/Uid1O3A.png" alt="Developer Roadmap" width="96" height="96">
@@ -32,14 +33,7 @@
 
 ## 🚦 تغییرات و پیشنهادها
 
-صفحه اصلی پروژه [اینجاست](https://github.com/kamranahmed/developer-roadmap) و در صورت تمایل به مشارکت یا اصلاح در ترجمه فارسی کافی است با قدم های زیر، برای پروژه پی آر بفرستید:
-
-- Open pull request with improvements
-- Discuss ideas in issues
-- Spread the word
-- Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
-
-البته توجه داشته باشید که هدف این پروژه نام بردن از همه تکنولوژی و برشمردن تمام راه‌های رسیدن به هدف نیست. در این پروژه بر اساس نظر نویسنده به برخی از مهمترین جنبه‌ها اشاره شده پس قبل از تصمیم به اضافه کردن مدخل جدید یا اسم تکنولوژی یا نرم افزار جدید، حتما از طریق باز کردن یک ایشو، مساله را مطرح کنید.
+صفحه اصلی پروژه [اینجاست](https://github.com/kamranahmed/developer-roadmap) ولی در صورت تمایل برای ایجاد اصلاحات در پروژه فارسی می توانید پی آر بفرستید. در صورت نیاز به تغییر جدی یا اضافه شدن تکنولوزی بهتر است اول آن را در ایشوها مطرح کنید. 
 
 ## حمایتگران پروژه اصلی
 
@@ -49,3 +43,4 @@
 ## مجوز
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+</div>
