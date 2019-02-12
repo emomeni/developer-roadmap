@@ -4,12 +4,6 @@
   </a>
   <h2 align="center">نقشه راهی برای توسعه دهنده ها</h2>
   <p align="center">چگونه در ۲۰۱۹ یک توسعه دهنده وب شویم</p>
-  <p align="center">
-    <a href="https://github.com/kamranahmedse/developer-roadmap#-introduction"><img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg"/></a>
-          <a href="https://github.com/kamranahmedse/developer-roadmap/releases"><img src="https://img.shields.io/badge/Roadmaps-Past-yellow.svg"/></a>
-      <a href="https://twitter.com/home?status=Developer%20Roadmap%20by%20%40kamranahmedse%20http%3A//github.com/kamranahmedse/developer-roadmap"><img src="https://img.shields.io/badge/twitter-tweet-blue.svg"/></a>
-<a href="https://twitter.com/kamranahmedse"><img src="https://img.shields.io/badge/feedback-@kamranahmedse-blue.svg" /></a>
-  </p>
   <br>
 </p>
 نمودارهایی که در اینجا مشاهده می‌کنید سعی می کنند مسیر یادگیری شما برای تبدیل شدن به یک توسعه دهنده حرفه ای بک اند، فرانت اند و دواپس را نمایش دهند. این نمودارها حاوی قدم ها، مسیر، تکنولوژی‌ها و مفاهیمی هستند که هر کدام از این متخصصان باید بدانند. 
